@@ -28,5 +28,10 @@ public class Players {
     //setters
     public void setName() {}
     
+    	@Override
+    public String toString() {
+        return 	"Enter UserName: " + name + 
+                "\n**************************************";
+    
 }
 
