@@ -32,6 +32,6 @@ public class Players {
     public String toString() {
         return 	"Enter UserName: " + name + 
                 "\n**************************************";
-    
+    }
 }
 
